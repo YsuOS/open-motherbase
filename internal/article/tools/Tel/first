@@ -2,9 +2,16 @@
 ===first page===
 <body>
 <h1>1. Are you a man or woman?</h1>
-<p>man</p>
-<p>woman</p>
+
+<a href="unknown url">
+man
+</a>
+
+<a href="unknown url">
+woman
+</a>
 
 </body>
+
 
 </html>
