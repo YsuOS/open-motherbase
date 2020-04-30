@@ -1,17 +1,14 @@
+<!DOCTIPE html>
 <html>
-===first page===
+<!-- first page -->
 <body>
 <h1>1. Are you a man or woman?</h1>
 
-<a href="unknown url">
-man
-</a>
+<button onclick="second page's url">man</button>
 
-<a href="unknown url">
-woman
-</a>
+<button onclick="third page's url">woman</button>
 
 </body>
 
-
 </html>
+
